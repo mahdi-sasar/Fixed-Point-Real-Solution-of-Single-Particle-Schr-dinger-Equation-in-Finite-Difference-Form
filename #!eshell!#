@@ -93,4 +93,12 @@ To https://github.com/mahdi-sasar/Fixed-Point-Real-Solution-of-Single-Particle-S
 ➜ Python-Source-Code git:(main)$ git push
 To https://github.com/mahdi-sasar/Fixed-Point-Real-Solution-of-Single-Particle-Schr-dinger-Equation-in-Finite-Difference-Form
    019d2f5..53e747d  main -> main
+➜ Python-Source-Code git:(main)$ git add .
+warning: in the working copy of '#!eshell!#', LF will be replaced by CRLF the next time Git touches it
+➜ Python-Source-Code git:(main) ✗$ git commit -m "README file update and final test to see if the images and the captions are readable."
+[main 7f55a4c] README file update and final test to see if the images and the captions are readable.
+ 2 files changed, 49 insertions(+), 10 deletions(-)
+➜ Python-Source-Code git:(main)$ git push
+To https://github.com/mahdi-sasar/Fixed-Point-Real-Solution-of-Single-Particle-Schr-dinger-Equation-in-Finite-Difference-Form
+   53e747d..7f55a4c  main -> main
 ➜ Python-Source-Code git:(main)$ 
