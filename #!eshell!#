@@ -1,0 +1,64 @@
+Welcome to the Emacs shell
+
+➜ Python-Source-Code git:(main) ✗$ git add .
+➜ Python-Source-Code git:(main) ✗$ git commit -m "Added all the images that are used in the original manuscript."
+[main 25cf397] Added all the images that are used in the original manuscript.
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Images/FIG01.png
+ create mode 100644 Images/FIG02.png
+ create mode 100644 Images/FIG03.png
+ create mode 100644 Images/FIG04.png
+➜ Python-Source-Code git:(main) ✗$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.#!eshell!
+
+nothing added to commit but untracked files present (use "git add" to track)
+➜ Python-Source-Code git:(main) ✗$ ls 
+001-Fixed-Point-Hydrogen-Atom.py                 002-Fixed-Point-Hydrogen-Atom-Electric-Field.py~  Plotting-Data-Export.py   README.md
+002-Fixed-Point-Hydrogen-Atom-Electric-Field.py  Images                                            Plotting-Data-Export.py~  
+➜ Python-Source-Code git:(main) ✗$ ll 
+ll: command not found
+➜ Python-Source-Code git:(main) ✗$ git status
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+➜ Python-Source-Code git:(main)$ git push
+To https://github.com/mahdi-sasar/Fixed-Point-Real-Solution-of-Single-Particle-Schr-dinger-Equation-in-Finite-Difference-Form
+   60c4b70..25cf397  main -> main
+➜ Python-Source-Code git:(main)$ git status 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+➜ Python-Source-Code git:(main) ✗$ git commit -m "README file update and test to see if images render correctly or not."
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+➜ Python-Source-Code git:(main) ✗$ git push
+Everything up-to-date
+➜ Python-Source-Code git:(main) ✗$ git add .
+➜ Python-Source-Code git:(main) ✗$ git commit -m "README file update and test to see if images render correctly or not."
+[main dae105e] README file update and test to see if images render correctly or not.
+ 1 file changed, 16 insertions(+)
+➜ Python-Source-Code git:(main)$ git push
+To https://github.com/mahdi-sasar/Fixed-Point-Real-Solution-of-Single-Particle-Schr-dinger-Equation-in-Finite-Difference-Form
+   25cf397..dae105e  main -> main
+➜ Python-Source-Code git:(main)$ 
