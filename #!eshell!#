@@ -70,4 +70,12 @@ warning: in the working copy of '#!eshell!#', LF will be replaced by CRLF the ne
 ➜ Python-Source-Code git:(main)$ git push
 To https://github.com/mahdi-sasar/Fixed-Point-Real-Solution-of-Single-Particle-Schr-dinger-Equation-in-Finite-Difference-Form
    dae105e..ce3fcc0  main -> main
-➜ Python-Source-Code git:(main) ✗$ 
+➜ Python-Source-Code git:(main) ✗$ git add .
+warning: in the working copy of '#!eshell!#', LF will be replaced by CRLF the next time Git touches it
+➜ Python-Source-Code git:(main) ✗$ git commit -m "README file update and test to see if images render correctly or not."
+[main b163979] README file update and test to see if images render correctly or not.
+ 2 files changed, 13 insertions(+), 4 deletions(-)
+➜ Python-Source-Code git:(main)$ git push
+To https://github.com/mahdi-sasar/Fixed-Point-Real-Solution-of-Single-Particle-Schr-dinger-Equation-in-Finite-Difference-Form
+   ce3fcc0..b163979  main -> main
+➜ Python-Source-Code git:(main)$ git commit -m "README file update and test to see if images render correctly or not."
