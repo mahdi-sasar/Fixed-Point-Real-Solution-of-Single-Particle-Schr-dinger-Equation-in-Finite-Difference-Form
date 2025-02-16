@@ -24,11 +24,11 @@ atom for comparison.</figcaption>
 
 <figure>
   <img src="Images/FIG04.png" alt="Alt text" />
-  <figcaption></figcaption>
+  <figcaption>Hydrogen atom in a uniform electric field in the negative \textit{x} direction. Physical dimensions of the box are similar to the rest of the plots: a) Hydrogen atom plus a potential term $-0.08x$ Ry. The probability amplitude shows an expected displacement of the electron cloud in the opposite direction to the applied field, b) same as a) with contours to better show the distortion in the probability amplitude, c) Hydrogen atom plus a potential term $-0.15x$ Ry, d) same as c) with contours to better show the distortion in the probability amplitude.</figcaption>
 </figure>
 
 <figure>
-  <img src="Images/FIG01.png" alt="Alt text" />
-  <figcaption></figcaption>
+  <img src="Images/FIG03.png" alt="Alt text" />
+  <figcaption>Electron probability amplitude in a dipole field: a) 0.203 Debye dipole moment showing the formation of a bound state with energy -0.470906 Ry, b) same plot as a), with contour lines for a better illustration of the distribution of the wavefunction in the box, c) 0.101 Debye dipole moment showing the ground state with energy 0.912737 Ry, d) same plot as c), with contour lines for a better illustration of the distribution of the wavefunction in the box.</figcaption>
 </figure>
 
