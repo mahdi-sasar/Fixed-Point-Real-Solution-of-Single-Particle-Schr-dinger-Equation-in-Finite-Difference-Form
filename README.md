@@ -1,7 +1,7 @@
 # Fixed Point Solution of Single Particle Schrödinger Equation in Finite Difference Form
 
 Additional information and the Python code for the paper of the same title.
-
+This is still a work in progress, and I will update it fully as the publication of the related paper develops.
 In this paper, I have introduced a simple fixed point map method for the numerical
 solution of the Schrodinger equation in finite difference form in arbitrary dimensions.
 The fixed point yields the real solutions of the single particle Schrodinger equation and
